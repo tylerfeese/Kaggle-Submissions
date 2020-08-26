@@ -1,5 +1,7 @@
 # Kaggle-Submissions
 Python codes used for creating of submissions for Kaggle competitions
 
-KNN used for final Titanic Survivors competition
-Decision Tree Regression model used for Final Housing Prices submission
+Titanic: Machine Learning from Disaster competition completed using Python and KNN  model for final submission.
+
+Housing Prices: Advanced Regression Techniques competition completed using Decision Tree Regression Model for final submission.
+
